@@ -1,1 +1,1 @@
-original string
+new line
