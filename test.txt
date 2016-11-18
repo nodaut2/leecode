@@ -1,1 +1,2 @@
-after string`
+inserted string
+inserted string2
